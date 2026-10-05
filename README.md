@@ -1,1 +1,2 @@
 # StatusQuestPrivacyPolicy
+正式にはステータスクエスト2用です
